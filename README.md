@@ -21,5 +21,9 @@ THEN I am again presented with current and future conditions for that city
 ![image](https://user-images.githubusercontent.com/95385092/151884909-5205023e-e83f-41a9-b0cb-3055f314aac5.png)
 
 
+Link to Live page: https://csnyder332.github.io/My-Weatherboard/  
+Link to Github repository: https://github.com/csnyder332/My-Weatherboard
+
+
 # Sources for solutions:   
 Openweathermap, W3SChools, MDN, YouTube

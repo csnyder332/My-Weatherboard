@@ -49,9 +49,7 @@ let getWeather = (city) => {
       getWeather(cityEl);
       getForecast(cityEl);
       cityInput.value = "";
-    } else {
-      alert("Enter a city name to get the weather!");
-    }
+    } 
   };
   
   

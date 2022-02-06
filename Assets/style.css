@@ -1,0 +1,104 @@
+:root {
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+body {
+
+  height: 100vh;
+}
+
+
+.title {
+  text-align: center;
+  color: white;
+  background-color: rgb(36, 36, 102);
+}
+
+.title h1 {
+  padding: 10px;
+}
+
+.currentWeather {
+  margin-top: 2vh;
+}
+
+
+.card-search {
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
+
+.btn {
+  background-color: rgba(54, 91, 253, 0.842);
+  color: white;
+  border-radius: 5px;
+  font-family:   "Montserrat", sans-serif;
+  font-size: smaller;
+  font-weight: bold;
+  border-color: white;
+  border: 2px;
+  width: 50%;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+p {
+  font-size: small;
+  line-height: 1em;
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  margin-left: 1vw;
+  margin-top: 1vh;
+  font-family: "Montserrat", sans-serif;
+}
+
+.col-sm-2 .card {
+  padding-top: 1vh;
+}
+
+.currentBlock {
+  background-color: none;
+  margin-bottom: 5px;
+  display: flex;
+  border-radius: 0%;
+  
+}
+
+.card-title {
+  font-size: .8rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+
+.card-search {
+  min-width: fit-content;
+}
+
+.card5day {
+  background: darkblue;
+  color: white;
+  height: fit-content;
+  font-size: .9rem;
+  margin-top: .2vh;
+  border-radius: 0%;
+  
+}
+
+h4,
+h5,
+h6 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+h5, h6 {
+  font-weight: 900;
+}
+
+}
+
+
+
